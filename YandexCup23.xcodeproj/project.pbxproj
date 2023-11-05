@@ -10,9 +10,24 @@
 		050ECF9A2AF0D7D500535E37 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 050ECF992AF0D7D500535E37 /* AppDelegate.swift */; };
 		050ECF9C2AF0D7D500535E37 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 050ECF9B2AF0D7D500535E37 /* SceneDelegate.swift */; };
 		050ECF9E2AF0D7D500535E37 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 050ECF9D2AF0D7D500535E37 /* ViewController.swift */; };
-		050ECFA12AF0D7D500535E37 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 050ECF9F2AF0D7D500535E37 /* Main.storyboard */; };
 		050ECFA32AF0D7D600535E37 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 050ECFA22AF0D7D600535E37 /* Assets.xcassets */; };
 		050ECFA62AF0D7D600535E37 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 050ECFA42AF0D7D600535E37 /* LaunchScreen.storyboard */; };
+		050ECFAE2AF0DC6A00535E37 /* CategoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 050ECFAD2AF0DC6A00535E37 /* CategoryView.swift */; };
+		050ECFB52AF1412600535E37 /* CanvasView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 050ECFB42AF1412600535E37 /* CanvasView.swift */; };
+		050ECFBB2AF1779900535E37 /* UIColor+Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 050ECFBA2AF1779900535E37 /* UIColor+Constants.swift */; };
+		050ECFBF2AF19E8B00535E37 /* TrackListTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 050ECFBE2AF19E8B00535E37 /* TrackListTableView.swift */; };
+		050ECFC12AF1A48A00535E37 /* ListViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 050ECFC02AF1A48A00535E37 /* ListViewCell.swift */; };
+		051F6A342AF65B950058E47F /* Гитара 2.wav in Resources */ = {isa = PBXBuildFile; fileRef = 051F6A2F2AF65B940058E47F /* Гитара 2.wav */; };
+		051F6A352AF65B950058E47F /* Духовые 1.wav in Resources */ = {isa = PBXBuildFile; fileRef = 051F6A302AF65B940058E47F /* Духовые 1.wav */; };
+		051F6A362AF65B950058E47F /* Духовые 3.wav in Resources */ = {isa = PBXBuildFile; fileRef = 051F6A312AF65B940058E47F /* Духовые 3.wav */; };
+		051F6A372AF65B950058E47F /* Гитара 1.wav in Resources */ = {isa = PBXBuildFile; fileRef = 051F6A322AF65B950058E47F /* Гитара 1.wav */; };
+		051F6A382AF65B950058E47F /* Духовые 2.wav in Resources */ = {isa = PBXBuildFile; fileRef = 051F6A332AF65B950058E47F /* Духовые 2.wav */; };
+		051F6A3A2AF710FA0058E47F /* Ударные 2.wav in Resources */ = {isa = PBXBuildFile; fileRef = 051F6A392AF710FA0058E47F /* Ударные 2.wav */; };
+		05861FBE2AF504CC0036BD24 /* MicMonitor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05861FBD2AF504CC0036BD24 /* MicMonitor.swift */; };
+		05861FC02AF537EE0036BD24 /* WaveformMaskView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05861FBF2AF537EE0036BD24 /* WaveformMaskView.swift */; };
+		05AE05612AF7B43500921737 /* CategoryContainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 05AE05602AF7B43500921737 /* CategoryContainer.swift */; };
+		05FCC1ED2AF2764200652274 /* Ударные 1.wav in Resources */ = {isa = PBXBuildFile; fileRef = 05FCC1EC2AF2764200652274 /* Ударные 1.wav */; };
+		BAE822B62AF3AF3F005F1F60 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAE822B52AF3AF3F005F1F60 /* Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,10 +35,25 @@
 		050ECF992AF0D7D500535E37 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		050ECF9B2AF0D7D500535E37 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		050ECF9D2AF0D7D500535E37 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		050ECFA02AF0D7D500535E37 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		050ECFA22AF0D7D600535E37 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		050ECFA52AF0D7D600535E37 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		050ECFA72AF0D7D600535E37 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		050ECFAD2AF0DC6A00535E37 /* CategoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryView.swift; sourceTree = "<group>"; };
+		050ECFB42AF1412600535E37 /* CanvasView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CanvasView.swift; sourceTree = "<group>"; };
+		050ECFBA2AF1779900535E37 /* UIColor+Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIColor+Constants.swift"; sourceTree = "<group>"; };
+		050ECFBE2AF19E8B00535E37 /* TrackListTableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrackListTableView.swift; sourceTree = "<group>"; };
+		050ECFC02AF1A48A00535E37 /* ListViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewCell.swift; sourceTree = "<group>"; };
+		051F6A2F2AF65B940058E47F /* Гитара 2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "Гитара 2.wav"; sourceTree = "<group>"; };
+		051F6A302AF65B940058E47F /* Духовые 1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "Духовые 1.wav"; sourceTree = "<group>"; };
+		051F6A312AF65B940058E47F /* Духовые 3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "Духовые 3.wav"; sourceTree = "<group>"; };
+		051F6A322AF65B950058E47F /* Гитара 1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "Гитара 1.wav"; sourceTree = "<group>"; };
+		051F6A332AF65B950058E47F /* Духовые 2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "Духовые 2.wav"; sourceTree = "<group>"; };
+		051F6A392AF710FA0058E47F /* Ударные 2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "Ударные 2.wav"; sourceTree = "<group>"; };
+		05861FBD2AF504CC0036BD24 /* MicMonitor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MicMonitor.swift; sourceTree = "<group>"; };
+		05861FBF2AF537EE0036BD24 /* WaveformMaskView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WaveformMaskView.swift; sourceTree = "<group>"; };
+		05AE05602AF7B43500921737 /* CategoryContainer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryContainer.swift; sourceTree = "<group>"; };
+		05FCC1EC2AF2764200652274 /* Ударные 1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "Ударные 1.wav"; sourceTree = "<group>"; };
+		BAE822B52AF3AF3F005F1F60 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,15 +86,70 @@
 		050ECF982AF0D7D500535E37 /* YandexCup23 */ = {
 			isa = PBXGroup;
 			children = (
-				050ECF992AF0D7D500535E37 /* AppDelegate.swift */,
+				05AE055D2AF7AFD800921737 /* Controller */,
+				05AE055F2AF7B02600921737 /* Helpers */,
+				05AE055C2AF7AFCF00921737 /* Model */,
+				05AE055E2AF7AFE100921737 /* Resources */,
+				05AE055B2AF7AFBB00921737 /* View */,
 				050ECF9B2AF0D7D500535E37 /* SceneDelegate.swift */,
-				050ECF9D2AF0D7D500535E37 /* ViewController.swift */,
-				050ECF9F2AF0D7D500535E37 /* Main.storyboard */,
-				050ECFA22AF0D7D600535E37 /* Assets.xcassets */,
-				050ECFA42AF0D7D600535E37 /* LaunchScreen.storyboard */,
+				050ECF992AF0D7D500535E37 /* AppDelegate.swift */,
 				050ECFA72AF0D7D600535E37 /* Info.plist */,
 			);
 			path = YandexCup23;
+			sourceTree = "<group>";
+		};
+		05AE055B2AF7AFBB00921737 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				050ECFB42AF1412600535E37 /* CanvasView.swift */,
+				05AE05602AF7B43500921737 /* CategoryContainer.swift */,
+				050ECFAD2AF0DC6A00535E37 /* CategoryView.swift */,
+				050ECFC02AF1A48A00535E37 /* ListViewCell.swift */,
+				05861FBD2AF504CC0036BD24 /* MicMonitor.swift */,
+				050ECFBE2AF19E8B00535E37 /* TrackListTableView.swift */,
+				05861FBF2AF537EE0036BD24 /* WaveformMaskView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		05AE055C2AF7AFCF00921737 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				BAE822B52AF3AF3F005F1F60 /* Model.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		05AE055D2AF7AFD800921737 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				050ECF9D2AF0D7D500535E37 /* ViewController.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		05AE055E2AF7AFE100921737 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				051F6A322AF65B950058E47F /* Гитара 1.wav */,
+				051F6A2F2AF65B940058E47F /* Гитара 2.wav */,
+				05FCC1EC2AF2764200652274 /* Ударные 1.wav */,
+				051F6A392AF710FA0058E47F /* Ударные 2.wav */,
+				051F6A302AF65B940058E47F /* Духовые 1.wav */,
+				051F6A332AF65B950058E47F /* Духовые 2.wav */,
+				051F6A312AF65B940058E47F /* Духовые 3.wav */,
+				050ECFA22AF0D7D600535E37 /* Assets.xcassets */,
+				050ECFA42AF0D7D600535E37 /* LaunchScreen.storyboard */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		05AE055F2AF7B02600921737 /* Helpers */ = {
+			isa = PBXGroup;
+			children = (
+				050ECFBA2AF1779900535E37 /* UIColor+Constants.swift */,
+			);
+			path = Helpers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,9 +210,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				051F6A352AF65B950058E47F /* Духовые 1.wav in Resources */,
+				051F6A342AF65B950058E47F /* Гитара 2.wav in Resources */,
 				050ECFA62AF0D7D600535E37 /* LaunchScreen.storyboard in Resources */,
+				051F6A372AF65B950058E47F /* Гитара 1.wav in Resources */,
+				051F6A382AF65B950058E47F /* Духовые 2.wav in Resources */,
+				05FCC1ED2AF2764200652274 /* Ударные 1.wav in Resources */,
 				050ECFA32AF0D7D600535E37 /* Assets.xcassets in Resources */,
-				050ECFA12AF0D7D500535E37 /* Main.storyboard in Resources */,
+				051F6A362AF65B950058E47F /* Духовые 3.wav in Resources */,
+				051F6A3A2AF710FA0058E47F /* Ударные 2.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,23 +229,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				05AE05612AF7B43500921737 /* CategoryContainer.swift in Sources */,
+				050ECFBF2AF19E8B00535E37 /* TrackListTableView.swift in Sources */,
+				05861FC02AF537EE0036BD24 /* WaveformMaskView.swift in Sources */,
 				050ECF9E2AF0D7D500535E37 /* ViewController.swift in Sources */,
 				050ECF9A2AF0D7D500535E37 /* AppDelegate.swift in Sources */,
+				050ECFBB2AF1779900535E37 /* UIColor+Constants.swift in Sources */,
+				BAE822B62AF3AF3F005F1F60 /* Model.swift in Sources */,
+				050ECFB52AF1412600535E37 /* CanvasView.swift in Sources */,
+				050ECFC12AF1A48A00535E37 /* ListViewCell.swift in Sources */,
+				05861FBE2AF504CC0036BD24 /* MicMonitor.swift in Sources */,
 				050ECF9C2AF0D7D500535E37 /* SceneDelegate.swift in Sources */,
+				050ECFAE2AF0DC6A00535E37 /* CategoryView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		050ECF9F2AF0D7D500535E37 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				050ECFA02AF0D7D500535E37 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		050ECFA42AF0D7D600535E37 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -290,11 +382,13 @@
 				DEVELOPMENT_TEAM = BJ3L884KZL;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = YandexCup23/Info.plist;
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "Для записи вокала понадобится доступ к микрофону";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UIMainStoryboardFile = "";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -302,9 +396,12 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.zankov.YandexCup23;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -318,11 +415,13 @@
 				DEVELOPMENT_TEAM = BJ3L884KZL;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = YandexCup23/Info.plist;
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "Для записи вокала понадобится доступ к микрофону";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UIMainStoryboardFile = "";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -330,9 +429,12 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.zankov.YandexCup23;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
